@@ -1,0 +1,624 @@
+Koja od narednih ne spada u osnovne paradigme?
+Skript
+Logicka
+Objektno-orijentisana
+
+Koji od narednih jezika pripada objektno-orijentisanoj paradigmi?
+Java
+Python
+Fortran
+
+Znacenje reci "paradigma" je:
+Uzorak,šablon
+Recenica,rec
+Jezik
+
+Najopštija podela programskih paradigmi je na:
+Proceduralnu i deklarativnu
+Objektno-orijentisanu i funkcionalnu
+Proceduralnu i funkcionalnu
+
+FORTRAN je nastao 1957. godine i njegov tvorac je:
+John Backus
+John McCarthy
+Grace Hopper
+
+LISP je nastao 1958. godine i njegov tvorac je:
+John McCarthy
+John Backus
+Grace Hopper
+
+Koje godine je nastao programski jezik COBOL?
+1959.
+1957.
+1958.
+
+Imperativna paradigma je nastala pod uticajem:
+Fon Nojmanove arhitekture racunara
+Softverske krize 80ih
+Industrijske revolucije
+
+Imperativna paradigma može da se okarakteriše recenicom:
+"prvo uradi ovo, zatim ono"
+"izracunaj vrednost izraza i koristi je"
+"odgovori na pitanje kroz traženje rešenja"
+
+Logicka paradigma može da se okarakteriše recenicom:
+"odgovori na pitanje kroz traženje rešenja"
+"izracunaj vrednost izraza i koristi je"
+"uputi poruku objektima, da bi simulirao tok nekog fenomena"
+
+Funkcionalna paradigma može da se okarakteriše recenicom:
+"izracunaj vrednost izraza i koristi je"
+"odgovori na pitanje kroz traženje rešenja"
+"uputi poruku objektima, da bi simulirao tok nekog fenomena"
+
+Osnovni pojam imperativnih jezika je: 
+Naredba
+Promenljiva
+Rekurzija
+
+Imperativna paradigma se karakterise postojanjem:
+Naredbi
+Funkcija
+Petlji
+
+Koji od navedenih jezika ne pripada imperativnoj paradigmi?
+COBOL
+C
+Pascal
+
+Koji od navedenih jezika pripada imperativnoj paradigmi?
+PL
+Python
+OCaml
+
+Naredbe se kod imperativne paradigme grupišu u:
+Procedure
+Pakete
+Objekte
+
+Izbaci uljeza: Upravljacke strukture kod imperativne paradigme su
+Naredbe dodele
+Naredbe iteracije
+Naredbe skoka
+
+Kod imperativne paradigme oznake promenljivih su i od memorijskih lokacija što izaziva:
+Bocne efekte
+Rekurziju
+Izlazak iz programa
+
+U kojim periodu je nastala objektno-orijentisana paradigma?
+80ih
+60ih
+70ih
+
+Kako objektno-orijentisana paradigma simulira spoljašnji svet?
+Objektima
+Crtežima
+Porukama
+
+Kako su grupisani objekti kod objektno-orijentisane paradigme?
+Po klasama
+Po paketima
+Po fajlovima
+
+Izbaci jezik koji ne pripada objektno-orijentisanoj paradigmi:
+Algol
+Simula67
+SmallTalk
+
+Kod funkcionalne paradigme naredba
+Ne postoji
+Postoji
+Može da postoji, ali ne mora - poželjno je da postoji
+
+Funkcionalna paradigma je zasnovana na pojmu
+Matematicke funkcije
+Matematicke pismenosti
+Funkcionalne pismenosti
+
+Formalna osnova funkcionalnog programiranja ima formalnu osnovu u 
+Lambda racunu
+Predikatskom racunu
+Metodu rezolucije
+
+Kod funkcionalne paradigme izlazna vrednost funkcije zavisi samo od
+Ulaznih vrednosti argumenata funkcije
+Promena u promenljivama tokom izvršavanja programa
+Od stanja u memoriji
+
+Najistaknutiji predstavnik funkcionalne paradigme je
+Scala
+Haskell 
+Lisp
+
+Koji od narednih jezika pripada funkcionalnoj paradigmi?
+ML
+Python
+FuncCell
+
+Izbaci uljeza 
+Eiffel
+Sheme 
+Lisp
+
+Logicka paradigma je 
+Deklarativna
+Proceduralna
+Funkcionalna
+
+Kod logicke paradigme težimo razmisljanju najslicnijem
+Svakodnevnom životu
+Rešavanju matematickih problema
+Kreiranju umetnickog dela
+
+Formalizam za imperativne jezike je
+Tjuringova mašina
+Lambda racun
+Matematicke funkcije
+
+Formalizam za funkcionalne jezike je
+Lambda racun
+Tjuringova mašina
+Matematicke funkcije
+
+Formalizam za logicke jezike je
+Logika prvog reda
+Lambda racun
+Matematicke funkcije
+
+Koji od navedenih logickih jezika je najpoznatiji
+Prolog
+Datalog
+Parlog
+
+Koje godine je bila prva medunarodna konferencija o Prologu u Marseju
+1982
+1983
+1984
+
+Koje godine je ISO izbacio prvi standard za Prolog
+1995.
+1994.
+1993.
+
+ASP se najcešce koristi za 
+Pretragu kod NP teških problema
+Integraciju podataka, izvlacenje podataka, umrežavanje
+Podršku relacionim bazama podataka
+
+Od formula logike prvog reda u Prologu se mogu izraziti
+Samo Hornove klauze
+Sve formule logike prvog reda
+Sve formule osim Hornovih klauza 
+
+Osnovni gradivni elementi Prologa su
+Termovi
+Predikati
+Atomi
+
+Cinjenice u Prologu su Hornove klauze 
+Bez negiranih literala
+U punom obliku
+Bez nenegiranog literala
+
+Pravila u Prologu su Hornove klauze
+U punom obliku
+Bez negiranih literala
+Bez nenegiranog literala
+
+Upiti u Prologu su Hornove klauze 
+Bez nenegiranog literala
+Bez negiranih literala
+U punom obliku
+
+Kod koje paradigme je ideja da se softver sklapa iz gotovih delova
+Komponentne
+Konkurentne 
+Reaktivne 
+
+Interfejs je kod komponentnog programiranja 
+Odvojen od implementacije
+Deo implementacije
+Može biti deo implementacije
+
+Šta definiše nacin komunikacije sa komponentom
+Interfejs
+Sama komponenta
+Komponentni komunikator
+
+Kakav prvenstveno treba da bude nacin povezivanja komponenti
+Jednostavan
+Logican
+Standardizovan
+
+Konkurentnost u užem smislu karakteriše
+Jedan procesor, jedna memorija
+Jedan procesor, više memorija
+Više procesora, jedna memorija
+
+Paralelno programiranje karakteriše
+Više procesora, jedna memorija
+Jedan procesor, više memorija
+Više procesora, jedna memorija
+
+Distribuirano programiranje karakteriše
+Više procesora, više memorija
+Jedan procesor, više memorija
+Više procesora, jedna memorija
+
+Izbaci uljeza koji nije jezik za konkurentno programiranje
+Cobol
+Ada
+Modula 
+
+Koji sistem upravlja teškim zadacima kod konkurentnog programiranja?
+Operativni sistem
+Za upravljanje zadacima
+Za konkurentno izvodjenje
+
+Koja od narednih nije biblioteka za upravljanje nitima kod konkurentnog programiranja
+HELIX threads
+POSIX Pthreads
+Win32 threads
+
+Za slanje poruka kod konkurentne paradigme ne mogu se koristiti
+Slamke
+Cevi
+Soketi
+
+Šta nije osnovno stanje niti u konkurentnoj paradigmi?
+Pauzirano 
+Blokirano
+Umrtvljeno
+
+Prema Milutinu Milankovicu poslednje ledeno doba završilo se pre
+14000 godina
+16000 godina
+18000 godina
+
+Dinosaurusi su dominirali zemljom tokom
+Mezozoika
+Kenozoika
+Paleozoika
+
+Hamade su
+Kamenite pustinje
+Peskovite pustinje
+Šljunkovite pustinje
+
+U kom delu Evrope se nalazi Balkansko poluostrvo
+Jugoistocnom
+Jugozapadnom
+Severoistocnom
+
+Površina Balkanskog poluostrva iznosi
+505578 km2
+50000 km2
+5500000 km2
+
+Najniža tacka Srbije iznosi 
+28 m nadmorske visine
+26 m nadmorske visine
+24 m nadmorske visine
+
+Koliko iznosi ukupna dužina granica Srbije
+2358 km
+2598 km
+2550 km
+
+Koje stene su najrasprostranjenije u Srbiji 
+Sedimentne
+Metamorfne
+Magmatske
+
+U kom delu Vojvodine se nalazi Fruška Gora
+Srem
+Banat
+Backa
+
+Do koje nadmorske visine u brdsko-planinskim predelima se osecaju uticaji kontinentalne klime
+Do 800 m
+Do 1000 m
+Do 1200 m
+
+Koliko hidroelektrana je izgradeno u slivu Drine
+9
+10
+11
+
+Kako se zove najveca mrtvaja u Srbiji
+Obedska bara
+Slano Kopovo 
+Rusanda
+
+Veliki kineski zid dug je
+4000 m
+4500 m
+6000 m
+
+U kom veku je pronaden kompas
+U 5. Veku
+U 6. Veku
+U 7. Veku
+
+Koliko procenata ukupnog svetskog stanovništva cini stanovništvo Azije
+59%
+65%
+67%
+
+U kom veku je pronadena proizvodnja papira
+1. Veku
+3. Veku
+5. Veku
+
+Koja država Azije ima najveci ulov ribe
+Japan
+Kina
+Indija
+
+Koja država jugozapadne Azije ima najvece rezerve nafte
+Saudijska Arabija
+Oman
+Jemen
+
+Koja država Azije ima najdužu železnicku mrežu
+Indija
+Japan
+Kina
+
+U kom veku su Arapi prodrli na sever Afrike
+U 7. Veku
+U 5. Veku
+U 9. Veku
+
+Koliko republika ima u Africi
+49
+50
+51
+
+Francuski jezik je službeni jezik u koliko zemalja Afrike
+21
+25
+23
+
+Koja zemlja Afrike prednjaci u izvozu kafe
+Obala Slonovace
+Kenija
+Gana
+
+Koliki je procenat nepismenih u Africi
+55%
+60%
+65%
+
+Ko je sastavio prvu geografsku kartu?
+Anaksimander
+Aleksandar fon Humboldt
+Era Tosten
+
+Planovi su karte razmera od 
+1:100 do 1:10000
+1:25000 do 1:50000
+1:50000 do 1:200000
+
+Koje godine je održana mirovna konferencija u Versaju?          
+1919.
+1918.
+1920.
+
+U kom periodu je bilo najintenzivnije naseljavanje u SAD-u?
+1900-1914
+1890-1900
+1914-1930
+
+Na kom mestu u svetu se nalaze SAD po proizvodnji kamenog uglja?
+Drugom
+Prvom
+Trecem
+
+Koja država je najveci svetski uvoznik hrane?
+SAD
+Kina
+Rusija
+
+Koja luka u SAD-u ostvaruje najveci robni promet?
+Nju Jork
+Los Andeles
+Majami
+
+Na kom mestu u svetu se nalazi Australija po izvozu pšenice?
+IV
+III
+II
+
+Koja država australijskog saveza je prema prostranstvu najveca?
+Zapadna Australija
+Južna Australija
+Severna Australija
+
+Koliko procenata svetskog tanovništva cini stanovništvo Australije i Okeanije?
+0.5%
+1%
+1.5%
+
+Koji je glavni grad Novog Zelanda?
+Velington
+Okland
+Nelson
+
+Koji deo teritorije Australije su naseljavali prvi Evropljani?
+Jugoistocni
+Jugozapadni
+Južni
+
+Koliko iznosi ukupna površina Zemlje?
+510 miliona km2
+550 miliona km2
+580 milona km2
+
+Koji deo površine Zemlje otpada na Severno more?
+70.8%
+71%
+75.5%
+
+Koliko okeana možemo izdvojiti na Zemljinoj površini?
+4
+5
+3
+
+Koliko ukupno mora ima na Zemlji?
+81
+85
+86
+
+Kolika je prosecna gustina naseljenosti u Srbiji?
+103 stn/km2
+100 stn/km2
+150 stn/km2
+
+Koliko % svetskog stanivništva ispoveda islam?
+22%
+25%
+27%
+
+Koji kontinent ima najrazudenije obale?
+Evropa
+Azija
+Afrika
+
+Koliko Nemacka ima stanovnika?
+83 miliona
+85 miliona
+82 miliona
+
+Koja je najveca Evropska luka po prometu robe?
+Roterdam
+Marsej
+Anterpen
+
+Koji je najprometniji aerodrom u Evropi?
+Frankfurt
+London
+Pariz
+
+Koje godine se osniva srednjeevropska zona slobodne trgovine (CEFTA)?
+1993
+1995
+1996
+
+Koja država u svetu je na I mestu po zalihama uglja?
+Rusija
+SAD
+Kina
+
+Koliko država je bilo u sastavu SSSR-a?
+15
+16
+17
+
+Koje godine je osnovana organizacija Ujedinjenih Nacija?
+1945
+1944
+1946
+
+Na Balkanskom poluostrvu živi oko:
+45 miliona stanovnika
+55 miliona stanovnika
+30 miliona stanovnika
+
+Granica prema Bugarskoj je pretežno:
+Planinska
+Recna
+Ravnicarska
+
+Kolika je visina dina Suboticke pešcare:
+4-6m 
+8-10m
+10-12m
+
+Koja zemlja Afrije ima najmanji prirodni priraštaj (2,6%)?
+Zambija
+Mozambik
+Angola
+
+Koja država Afrike je najveci izvoznik caja?
+Kenija
+Etiopija
+Sudan
+
+Najmnogoljudnija zemlja južne Amerike je:
+Brazil
+Argentina
+Peru
+
+Kako se nazivaju prostrane travne oblasti u Severnoj Americi?
+Prerije
+Stepe
+Savane
+
+Koja država je najveci svetski izvoznik pšenice, kukuruza, pamuka i cigareta?
+SAD
+Kanada
+Rusija
+
+Koliko država cini australijski savez?
+7
+5
+3
+
+Krive, zatvorene linije koje na karti spajaju mesta iste insolacije nazivaju se:
+Izohele
+Izobare
+Izohijete
+
+Koliko %svetskog stanovništva živi na severnoj hemisferi ?
+91%
+85%
+70%
+
+Koliko % svetskog stanovništva cine prelazne (mešovite) rase ljudi?
+15%
+20%
+25%
+
+Koliko patuljastih država ima na teritoriji Evrope?
+7
+8
+9
+
+Na koliko mora izlazi Rusija?
+12
+11
+13
+
+Koliki broj stanovnika živi na Balkanskom poluostrvu?
+44 miliona
+42 miliona
+46 miliona
+
+Koliko % ledenog brega viri iznad vode?
+11
+13
+15
+
+Najveca providnost mora izmerena je u:
+Sargaškom moru
+Sredozemnom moru
+Crnom moru
+
+Zlatica, Begej i Cik su najznacajnije pritoke koje reke?
+Tise 
+Drine
+Zapadne Morave
+
+Kojoj grupi stena prema nacinu postanka pripadaju mermer, gnajs i skarn?
+Metamorfne
+Sedimentne
+Magmatske
+
+Prosecna gustina Zemlje je?
+5,5 g/cm3
+6,5 g/cm3
+6 g/cm3
